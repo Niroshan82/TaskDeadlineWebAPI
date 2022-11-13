@@ -1,0 +1,12 @@
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\bin\Debug\net6.0\TaskDeadlineDataServices.deps.json
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\bin\Debug\net6.0\TaskDeadlineDataServices.dll
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\bin\Debug\net6.0\TaskDeadlineDataServices.pdb
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\obj\Debug\net6.0\TaskDeadlineDataServices.csproj.AssemblyReference.cache
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\obj\Debug\net6.0\TaskDeadlineDataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\obj\Debug\net6.0\TaskDeadlineDataServices.AssemblyInfoInputs.cache
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\obj\Debug\net6.0\TaskDeadlineDataServices.AssemblyInfo.cs
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\obj\Debug\net6.0\TaskDeadlineDataServices.csproj.CoreCompileInputs.cache
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\obj\Debug\net6.0\TaskDeadlineDataServices.dll
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\obj\Debug\net6.0\refint\TaskDeadlineDataServices.dll
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\obj\Debug\net6.0\TaskDeadlineDataServices.pdb
+C:\Users\Niroshan\Documents\GitHub\TaskDeadlineWebAPI\TaskDeadlineDataServices\obj\Debug\net6.0\ref\TaskDeadlineDataServices.dll
